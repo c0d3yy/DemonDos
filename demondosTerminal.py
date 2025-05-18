@@ -2,7 +2,7 @@
                            Introduction:
 
             - TOOL NAME-    - AUTHOR -    - VERSION -
-              d3mondos        c0de           v1.2
+              d3mondos        Qantes         v1.2
 
                             License:
                       GNU GENERAL PUBLIC LICENSE
