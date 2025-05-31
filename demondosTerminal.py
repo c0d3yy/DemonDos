@@ -2,7 +2,7 @@
                            Introduction:
 
             - TOOL NAME-    - AUTHOR -    - VERSION -
-              d3mondos        Acez         v1.2
+              d3mondos        QanteZ         v1.2
 
                             License:
                       GNU GENERAL PUBLIC LICENSE
